@@ -6,7 +6,7 @@ const contact = () => {
     <div className="products-heading">
       <h2>Contact & Help</h2>
         <p>Karena website Shelf Store bukan untuk ecommerce sungguhan, kita dapat mengetes transaksi stripe menggunakan</p>
-        <p>kartu test yang disediakan stripe. Yaitu dengan memasukan 4242 4242 4242 4242, lalu bulan dan tahunya tekan 424,</p>
+        <p>kartu test yang disediakan stripe. Yaitu dengan memasukan 4242 4242 4242 4242, lalu bulan dan tahunnya tekan 424,</p>
         <p>dan untuk CVC-nya 424. Seperti pada gambar dibawah ini</p>
         <div className="maylike-products-container">
           <div className="product-card">
@@ -19,7 +19,7 @@ const contact = () => {
           </div>
         </div>
         <p className="description">Jika anda mempunyai pertanyaan, anda dapat menghubungi
-          <a className="email" href="mailto:order@example.com"> shelfstore@example.com</a>
+          <a className="email" href="mailto:shelfstore@example.com"> shelfstore@example.com</a>
         </p>
     </div>
   )
